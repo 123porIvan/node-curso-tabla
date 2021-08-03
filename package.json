@@ -1,0 +1,15 @@
+{
+  "name": "02-bases-node",
+  "version": "1.0.0",
+  "description": "una simple tabla de multiplicar con el archivo texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
